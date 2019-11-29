@@ -1,9 +1,0 @@
-https://www.dropbox.com/sh/2ymmiwoh68sta37/AABFINgTu8IUYt5hVE7aB-yxa?dl=0
-1-	LÜTFEN ÖNCE OKUYUN…
-2-	Videoyu Sonuna kadar izlemeden ve tüm maddeleri okumadan lütfen soru sormayın
-3-	Şuan addonsu çalışanların tekrar kurmasına gerek yoktur
-4-	Bu yazıları okumayanlar olacağı için linkin içinede anlatım videosu ekledim
-5-	Sıfır temiz Kodi üzerine kurulum anlatılmıştır.
-6-	Aynı işlemler elinizdeki kurulu kodi ya da Vavoo içinde geçerlidir.
-7-	Dün gece verilen repo adresi kapatılmıştır ve artık kullanılmayacaktır.
-8-	Yine yapamayanlar olursa (ki artık olmasın) lütfen yakın zamanda çıkaracağım kodi yapısını beklesin.
